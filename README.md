@@ -1,1 +1,1 @@
-Ini adalah repo untuk eksperimen CI-CD2
+Ini adalah repo untuk eksperimen CI-CD
